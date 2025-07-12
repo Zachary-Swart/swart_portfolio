@@ -1,89 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zachary Swart's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zachary Swart
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:swa21007@byui.edu">swa21007@byui.edu</a>
+| <a href="https://www.linkedin.com/in/zacharyswart">www.linkedin.com/in/zacharyswart</a>
 </div>
 
+## My Education
 
-## Currently
+**B.S. in Business Analytics – Full Time**  
+Brigham Young University - Idaho, Rexburg, ID  
+*Jan 2024 – Jan 2028*  
+- Overall GPA: 3.93  
+- Relevant Courses: Databases (SQL), Spreadsheet Analysis (Excel), & Business Analytics (Power BI).  
+- BYU-Idaho Academic Scholarship
 
-Standing on the shoulders of giants
+**Colony High School**  
+*2017 – 2021*
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**SQL Teaching Assistant – Part Time**  
+Brigham Young University – Idaho, Rexburg, ID  
+*Apr 2025 – Present*  
+- Provides database querying, data manipulation, and analysis techniques through hands-on support and tutoring.  
+- Instructed 15+ students in SQL through in-class sessions, covering key topics such as JOINs, REGEXPs, CASE statements, window functions, aggregate functions, and subqueries.  
+- Redesigned 4 exams to better align with course objectives and emphasize real-world SQL application scenarios.
 
+**Career Success Mentor – Part Time**  
+Brigham Young University – Idaho, Rexburg, ID  
+*Jan 2025 – Present*  
+- Provides career support services, resume reviews, and job search assistance to thousands of students worldwide.  
+- Achieved 98.1% average customer satisfaction rating in post-appointment surveys.  
+- Mentored 150+ students by leading individualized mentorship sessions and tailoring support strategies for internship and job goals.
 
-### Research interests
+**Polaris – Intern**  
+Polaris Inc., Rexburg, ID  
+*Apr 2024 – Aug 2024*  
+- Global leader in powersports, known for innovation and performance.  
+- Improved station time efficiency by 16% using Lean Six Sigma principles.  
+- Maintained 140–160 unit daily production with 99.5% on-time attendance, supporting team performance.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Leadership
 
+**Volunteer Representative**  
+Church of Jesus Christ of Latter-day Saints, Colorado Springs, CO  
+*Oct 2021 – Oct 2023*  
+- Supported 200+ individuals through personalized lessons and service.  
+- Led weekly council meetings for teams of 5+, promoting collaboration and goal achievement.
 
-## Education
+## Projects
 
-`1654-1660`
-__The King's School, Grantham.__
+**Excel Data Tracker**  
+*Apr 2025 – May 2025*  
+- Boosted data validation speed by 400% using automated Excel tools with VBA and macros to detect appointment entry errors.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**BYU-Idaho Hackathon**  
+*Nov 2024*  
+- Built functional SQL relational database in a team of 4 for a time management web app using HTML, CSS, and JavaScript during a 24-hour coding challenge.
 
-- Sizar
+## Key Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Excel | MySQL | Power BI | Python | R | PowerPoint | Word | Office & Outlook | HTML | CSS
